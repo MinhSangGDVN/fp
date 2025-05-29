@@ -17,3 +17,10 @@ Choose from **9 unique characters** available in the Shop and customize your fly
 Don’t forget to claim your **Daily Rewards**, where you can earn a random bonus of 1 to 50 coins every day!
 
 Flap, dash, and collect your way to the top — how far can you go?
+
+# Download
+
+**Lastest version:** 0.9
+**Support:** Android 5+
+
+[Download](<https://example.com>)
