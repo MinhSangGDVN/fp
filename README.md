@@ -21,6 +21,9 @@ Flap, dash, and collect your way to the top — how far can you go?
 # Download
 
 **Lastest version:** 0.9
+
 **Support:** Android 5+
 
-[Download](<https://example.com>)
+[Download Latest Version](<https://example.com>)
+
+Want to download an older version? [View all releases](<https://github.com>)
