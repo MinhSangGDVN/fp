@@ -23,17 +23,17 @@ Flappy Dash **does not request any special permissions** on your device. The gam
 
 ## 3. Third-Party Services
 
-We do **not integrate any third-party services**, such as advertising, analytics, or social media. Therefore, no data is shared with third parties.
+We do **not integrate any third-party services**, such as advertising, analytics, or social media. Therefore, **no data is shared with third parties**.
 
 ## 4. Data Security
 
-Since we do not collect or store any user data, there is no risk of data leakage from this application.
+Since we **do not collect or store any user data**, there is **no risk of data leakage** from this application.
 
 ## 5. Policy Changes
 
-If any changes are made in the future regarding how the app operates or accesses device features, this privacy policy will be clearly updated and made publicly available. Users are encouraged to review this policy periodically, especially after updates to the game.
+If any changes are made in the future regarding how the app operates or accesses device features, this privacy policy will be **clearly updated and made publicly available**. Users are encouraged to review this policy periodically, especially after updates to the game.
 
 ## 6. Contact
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-📧 [minhsanggd@gmail.com]
+📧 [**minhsanggd@gmail.com**]
