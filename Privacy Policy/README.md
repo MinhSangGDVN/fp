@@ -36,4 +36,5 @@ If any changes are made in the future regarding how the app operates or accesses
 ## 6. Contact
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-📧 [**minhsanggd@gmail.com**]
+
+📧 [minhsanggd@gmail.com]
