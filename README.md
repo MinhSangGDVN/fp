@@ -1,7 +1,7 @@
 # Flappy Dash
 Flappy Dash - Flap, dash, and conquer the skies in this rhythmic remake of a classic!
 
-## Welcome to Flappy Dash!
+# Flappy Dash
 
 Flappy Dash is a modern remake of the classic Flappy Bird, created by **MinhSangGD**. Take on the challenge of flying and dashing past obstacles to the rhythm of catchy background music. With intuitive tap controls and fast-paced gameplay, Flappy Dash brings a fresh and exciting twist to the beloved original.
 
