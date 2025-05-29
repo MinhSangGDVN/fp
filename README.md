@@ -26,4 +26,4 @@ Flap, dash, and collect your way to the top — how far can you go?
 
 [Download Latest Version](<https://example.com>)
 
-Want to download an older version? [View all releases](<https://github.com>)
+Want to download an older version? [View all releases](<https://github.com/MinhSangGDVN/fp/releases>)
