@@ -20,7 +20,7 @@ Flap, dash, and collect your way to the top — how far can you go?
 
 # Download
 
-**Lastest version:** 0.9
+**Lastest version:** 0.91
 
 **Support:** Android 5+
 
