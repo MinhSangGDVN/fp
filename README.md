@@ -26,8 +26,8 @@ Flap, dash, and collect your way to the top — how far can you go?
 
 **Released:** May 29, 2025
 
-**Updated:** May 29, 2025
+**Updated:** May 31, 2025
 
-[Download Latest Version](<https://github.com/MinhSangGDVN/fp/raw/refs/heads/main/releases/Flappy_Dash_v0.9.apk>)
+[Download Latest Version](<https://d.apkpure.com/b/APK/com.minhsanggd.first?version=latest>)
 
-Want to download an older version? [View all releases](<https://github.com/MinhSangGDVN/fp/tree/main/releases>)
+Want to download an older version? [View all releases](<https://apkpure.com/vn/flappy-dash/com.minhsanggd.first/versions>)
